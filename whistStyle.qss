@@ -1,0 +1,7 @@
+/* QWidget {
+    background-color: #fff;
+} */
+QPushButton {
+    border-radius: 5%;
+    border: 2px, solid, black;
+}
